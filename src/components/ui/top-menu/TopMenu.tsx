@@ -28,19 +28,19 @@ const TopMenu = () => {
       <div className="hidden sm:block">
         <Link
           className="m-2 p-2 rounded-md transition-all hover:bg-gray-100"
-          href="/"
+          href="/category/men"
         >
           Sobre Nosotros
         </Link>
         <Link
           className="m-2 p-2 rounded-md transition-all hover:bg-gray-100"
-          href="/breaded"
+          href="/category/women"
         >
           Panificados
         </Link>
         <Link
           className="m-2 p-2 rounded-md transition-all hover:bg-gray-100"
-          href="/plants"
+          href="/category/kid"
         >
           Plantas
         </Link>
